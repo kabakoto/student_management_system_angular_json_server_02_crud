@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Abdoulaye",
+      "email": "mail",
+      "mobile": "77",
+      "city": "DKR"
+    },
+    {
+      "id": 3,
+      "name": "kaba",
+      "email": "kaba@gmail.com",
+      "mobile": "78",
+      "city": "kaba"
+    },
+    {
+      "id": 4,
+      "name": "koto mm",
+      "email": "koto@gmail.com mm",
+      "mobile": "76 mm",
+      "city": "SDF mm"
+    },
+    {
+      "id": 5,
+      "name": "azert",
+      "email": "azerty",
+      "mobile": "azert",
+      "city": "azerty"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
